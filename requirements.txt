@@ -1,0 +1,11 @@
+# Backend
+fastapi
+uvicorn
+python-dotenv
+requests
+azure-storage-blob
+sentence-transformers
+faiss-cpu
+
+# Frontend
+streamlit

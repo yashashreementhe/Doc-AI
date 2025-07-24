@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+# *.log
+
+# Environment
+.env
+
+# Personal notes
+notes.txt
+
