@@ -7,3 +7,6 @@ __pycache__/
 
 # Personal notes
 notes.txt
+
+# Ignore vector store folder (for FAISS indexes, etc.)
+vector_store/
