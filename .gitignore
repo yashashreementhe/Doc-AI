@@ -9,4 +9,4 @@ __pycache__/
 notes.txt
 
 # Ignore vector store folder (for FAISS indexes, etc.)
-# vector_store/
+vector_store/
